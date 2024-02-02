@@ -1,14 +1,62 @@
 [
   {
-    "category":"https://img.freepik.com/premium-photo/gorgeous-female-brunette-model-white-clothes_149155-261.jpg",
-    "name":"Fashion SHOP"
+  "id":"Fashion-Shop_0001",
+  "name":"Ladies Linen Shirts - Pink Avocet",
+  "category":"https://pinkavocet.com/cdn/shop/products/PAPRODIMAGES_12_1200x.jpg?v=1649618177",
+  "price": "11.00"
   },
   {
-    "category":"https://burst.shopifycdn.com/photos/hot-pink-fashion-model.jpg?width=925&exif=0&iptc=0",
-    "name":"Free to Choose"
+    "id":"Fashion-Shop_0002",
+    "name":"Buy White & Navy Blue Tshirts",
+    "category":"https://assets.ajio.com/medias/sys_master/root/20210727/i3PZ/60ff5808f997ddb3123a1e94/-473Wx593H-460935706-navy-MODEL.jpg",
+    "price":"8.50"
   },
   {
-    "category":"https://img.freepik.com/free-photo/portrait-pretty-blonde-model-sitting-table-white-casual-warm-knitted-sweater-black-hat_273443-2244.jpg",
-    "name":"Order Now"
+    "id":"Fashion-Shop_0003",
+    "name":"Tank top and Camisoles",
+    "category":"https://cdn.cliqueinc.com/posts/288080/best-layering-tank-tops-288080-1594140298727-main.700x0c.jpg",
+    "price":"11:49"
+  },
+  {
+    "id":"Fashion-Shop_0004",
+    "name":"Women Silk Satin Camisole Solid",
+    "category":"https://i.ebayimg.com/images/g/3vwAAOSwYj1i6NMa/s-l1600.jpg",
+    "price":"15.99"
+  },
+  {
+    "id":"Fashion-Shop_0005",
+    "name":"Sling Tank U Neck Sleeveless",
+    "category":"https://i5.walmartimages.com/asr/4d43ea5e-7d5c-4f44-9712-f68e0c159cf0.45cacd337635a481f5854909ae0b73dd.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "price":"11.69"
+  },
+  {
+    "id":"Fashion-Shop_0006",
+    "name":"Length Sleeve",
+    "category":"https://media.very.co.uk/i/very/VPZ7J_SQ1_0000000004_BLACK_MDf/yours-pintuck-henley-black.jpg?$180x240_retinamobilex2$&fmt=webp",
+    "price":"11.99"
+  },
+  {
+    "id":"Fashion-Shop_0007",
+    "name":"Crew-Neck Top with Bell Sleeves",
+    "category":"https://assets.ajio.com/medias/sys_master/root/hd2/h75/13197816758302/-1117Wx1400H-440789294-grey-MODEL.jpg",
+    "price":"12.99"
+  },
+  {
+    "id":"Fashion-Shop_0008",
+    "name":"Gathered Waist Bell Sleeves Top",
+    "category":"https://imgshopimages.lbb.in/catalog/product/v/r/vrtp0003i_1__4.jpg",
+    "price":"25.99"
+  },
+  {
+    "id":"Fashion-Shop_0009",
+    "name":"Women's Long Sleeve Zipper Collar",
+    "category":"https://m.media-amazon.com/images/I/71HPbW2m8aL._AC_UY1000_.jpg",
+    "price":"22.99"
+  },
+  {
+    "id":"Fashion-Shop_0010",
+    "name":"Womens Striped Sweater V neck Lapel Ribbed",
+    "category":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/712zGYBvfCL._AC_SX679_.jpg",
+    "price":"18.99"
   }
 ]
